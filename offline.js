@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1522170604,
+	"version": 1522250418,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,6 +59,14 @@
 		"images/botly-sheet50.png",
 		"images/ref_pt-sheet0.png",
 		"images/screenshotsprite-sheet0.png",
+		"images/bubbles-sheet0.png",
+		"images/bubbles-sheet1.png",
+		"images/bubbles-sheet2.png",
+		"images/beacer-sheet0.png",
+		"images/beacer-sheet1.png",
+		"images/beacer-sheet2.png",
+		"images/beacer-sheet3.png",
+		"images/beacer-sheet4.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
